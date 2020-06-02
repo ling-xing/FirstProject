@@ -1,3 +1,3 @@
 # FirstProject
- As same as the Name.
- what's wrong? 
+Hello, everyone! This is my first repository in the Github.
+Hope you like it!
